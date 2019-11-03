@@ -34,7 +34,7 @@ and afterwards transfer them to the second Android device. See the post on the s
 6. Press Start
 7. When finished, close the program.
 
-#NOTES and WARNINGS
+# NOTES and WARNINGS
 * I have only tested this on Nexus 6P and Pixel 2 XL (Do not have a pixel 4 yet)
 * I am not in any way responsible for loss of data or damage of the device
 * Make sure ADB is at version 1.0.41 (command: adb --version to see version number), I have at frozen operations with version 1.0.40.
